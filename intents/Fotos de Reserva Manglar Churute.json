@@ -1,0 +1,89 @@
+{
+  "id": "10177ff8-1414-4213-be3c-2a5619cc9c69",
+  "name": "Fotos de Reserva Manglar Churute",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3753303a-439f-43a3-bc7b-4890fc580023",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Tengo estas fotos de la Reserva Ecológica Manglar Churute"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "rawUrl": "https://cdn2.civitatis.com/ecuador/guayaquil/excursion-reserva-manglares-churute-grid.jpg",
+                  "accessibilityText": "Example logo"
+                }
+              ],
+              [
+                {
+                  "type": "image",
+                  "rawUrl": "https://ecuaguide.com/wp-content/uploads/2020/07/manglares-churute-2.jpg",
+                  "accessibilityText": "Example logo"
+                }
+              ],
+              [
+                {
+                  "type": "image",
+                  "accessibilityText": "Example logo",
+                  "rawUrl": "https://c8.alamy.com/compes/hnmm99/espatula-rosada-platalea-ajaja-adulto-encaramado-en-la-copa-de-arbol-la-reserva-ecologica-manglares-churute-ecuador-en-el-mes-de-abril-hnmm99.jpg"
+                }
+              ],
+              [
+                {
+                  "accessibilityText": "Example logo",
+                  "type": "image",
+                  "rawUrl": "https://c8.alamy.com/compes/hnmkbr/cocoi-heron-ardea-cocoi-adulto-posado-en-la-vegetacion-de-mangle-reserva-ecologica-de-manglares-churute-guayaquil-ecuador-en-el-mes-de-abril-hnmkbr.jpg"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

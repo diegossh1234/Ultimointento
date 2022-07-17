@@ -1,0 +1,54 @@
+{
+  "id": "e94aa9d3-bf28-458d-86c7-472c2e56b7aa",
+  "parentId": "a65d6ff2-3d30-40b0-8f85-ee3af51de07a",
+  "rootParentId": "a65d6ff2-3d30-40b0-8f85-ee3af51de07a",
+  "name": "2",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-more",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8296f823-79e6-4e78-bf78-595e82dde62e",
+          "name": "given-name",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "value": "$given-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¿Qué tal?, $given-name , escribe (información) para poder ver las opciones de búsqueda."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

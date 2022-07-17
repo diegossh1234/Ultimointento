@@ -1,0 +1,56 @@
+{
+  "id": "2a8ac3df-831f-4e1a-9a87-181ee378a4cd",
+  "name": "Ubicacion Parque Nacional Yasuní",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "google maps",
+                  "actionLink": "https://goo.gl/maps/KGcwZQ8AGT6jtgq49",
+                  "title": "Parque Nacional Yasuní",
+                  "image": {
+                    "src": {
+                      "rawUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/2275px-Google_Maps_Logo_2020.svg.png"
+                    }
+                  },
+                  "type": "info"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

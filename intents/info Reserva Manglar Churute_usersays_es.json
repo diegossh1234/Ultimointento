@@ -1,0 +1,51 @@
+[
+  {
+    "id": "e5dfb732-310a-4639-9539-4ba0bbd0a6b1",
+    "data": [
+      {
+        "text": "Costa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "550a0c0b-47ce-437d-a222-8fe0a8f62268",
+    "data": [
+      {
+        "text": "Manglar ",
+        "userDefined": false
+      },
+      {
+        "text": "Churute",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "60432720-136b-443b-883a-06571b2f7d8e",
+    "data": [
+      {
+        "text": "churute",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

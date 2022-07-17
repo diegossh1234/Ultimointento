@@ -1,0 +1,58 @@
+{
+  "id": "76b4a46e-587e-47ac-bad6-4fba66117a90",
+  "name": "Costos de Reserva Manglar Churute",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "Ingreso: $0,00. ",
+                    "Alquiler de lancha: $50 para 20 personas o $40 para 16.",
+                    "Guías: $40 para grupos de 15 personas.",
+                    "Contactos: Reserva Manglares Churute – Rómulo Gainza 099-771-1908."
+                  ],
+                  "title": "Precios:",
+                  "type": "description"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

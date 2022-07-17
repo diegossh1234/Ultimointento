@@ -1,0 +1,17 @@
+[
+  {
+    "id": "3eed0399-02ee-439f-b074-a8e13c6456e4",
+    "data": [
+      {
+        "text": "norma",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

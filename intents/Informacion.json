@@ -1,0 +1,86 @@
+{
+  "id": "e4d8bd9d-ac09-4663-a682-ea46b2a304f6",
+  "name": "Informacion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "El repositorio de búsqueda es este"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "Sierra",
+                    "Parque Antisana",
+                    "Antisana",
+                    "Fotos Antisana",
+                    "Ubicación Antisana"
+                  ],
+                  "title": "------Región Sierra------"
+                }
+              ],
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "Costa",
+                    "Manglar Churute",
+                    "Churute",
+                    "Fotos Churute",
+                    "Ubicación Churute"
+                  ],
+                  "title": "------Región Costa------"
+                }
+              ],
+              [
+                {
+                  "text": [
+                    "Amazonía",
+                    "Oriente",
+                    "Parque Yasuní",
+                    "Yasuní",
+                    "Fotos Yasuní",
+                    "Ubicación Yasuní"
+                  ],
+                  "title": "------Región Amazonia------",
+                  "type": "description"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

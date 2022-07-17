@@ -1,0 +1,66 @@
+{
+  "id": "58b7712f-ff97-439e-a99d-b34952e2d60d",
+  "name": "Fotos del Parque Nacional Yasuní",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Tengo estas fotos del Parque Nacional Yasuní"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "rawUrl": "https://radiosucre.com.ec/wp-content/uploads/2022/03/El-Parque-Nacional-Yasuni-Noticias-Ecuador-905x613.jpg"
+                }
+              ],
+              [
+                {
+                  "rawUrl": "https://previews.123rf.com/images/ammit/ammit1212/ammit121200038/16960697-el-parque-nacional-yasun%C3%AD-ecuador.jpg",
+                  "accessibilityText": "Example logo",
+                  "type": "image"
+                }
+              ],
+              [
+                {
+                  "rawUrl": "https://www.howlanders.com/blog/wp-content/uploads/2021/05/indigena-yasuni-ecuador.jpg",
+                  "accessibilityText": "Example logo",
+                  "type": "image"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

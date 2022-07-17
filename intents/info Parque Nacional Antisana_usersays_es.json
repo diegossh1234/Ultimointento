@@ -1,0 +1,47 @@
+[
+  {
+    "id": "9b5a6657-f2c8-4c90-ba49-da389a260c6a",
+    "data": [
+      {
+        "text": "Sierra",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e64a8fdd-ed46-4505-9d08-7e4c11613228",
+    "data": [
+      {
+        "text": "Parque Antisana",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "337d7935-ddd9-42e2-b0c0-d14b8ef313ba",
+    "data": [
+      {
+        "text": "Antisana",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

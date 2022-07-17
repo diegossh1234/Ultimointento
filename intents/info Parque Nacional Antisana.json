@@ -1,0 +1,70 @@
+{
+  "id": "7574ddb1-9424-4f84-b4cd-80ec22ffb44c",
+  "name": "info Parque Nacional Antisana",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "68a3af03-b57a-450b-964c-bc9be184d47e",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Es toda la información que tengo"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "El parque Nacional Antisana es un área protegida, en cuyo interior hay páramos y bosques andinos orientales. La actividad volcánica, el paso y retroceso de los glaciares y la evolución han creado en su territorio paisajes impresionantes y una vida silvestre muy diversa. Como espejo del volcán está la laguna de la Mica, de donde viene parte del agua de la ciudad de Quito. Aparte de la laguna, hay zonas pantanosas donde el agua se anega en época lluviosa, formando lagunas estacionales como la Santa Lucía o la Mauca Machay. En la reserva nacen los ríos que luego se deslizan por las laderas orientales y van a alimentar los ríos Coca y Napo; en el valle del Tambo hay aguas termales. Hasta hace algunos años era de difícil acceso, más ahora es una de las áreas más fáciles de visitar desde la capital del país y otras zonas aledañas."
+                  ],
+                  "title": "Parque Nacional Antisana"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

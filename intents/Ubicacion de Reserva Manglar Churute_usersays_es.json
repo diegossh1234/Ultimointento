@@ -1,0 +1,47 @@
+[
+  {
+    "id": "32aaed11-c4b3-4d59-9ceb-b25e8e1648bd",
+    "data": [
+      {
+        "text": "Ubicacion Churute",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "11ab7836-d9d8-4338-b43b-c0c0fd188efe",
+    "data": [
+      {
+        "text": "Ubicación Churute",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "429a0ae5-3110-4a3b-af4a-0b3eab8cff1d",
+    "data": [
+      {
+        "text": "Ubicación Manglar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "id": "b897a7dd-06a7-4d3c-81b3-a4e1d10651bb",
+  "name": "Fotos del Parque Nacional Antisana",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Tengo estas fotos del Parque Nacional Antisana"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "accessibilityText": "Example logo",
+                  "rawUrl": "https://turismoi.ec/uploads/ec/photo/photo_file/8483/1284-1.jpg"
+                }
+              ],
+              [
+                {
+                  "rawUrl": "https://www.nature-experience-group.com/wp-content/uploads/2017/09/Antisana-Xavier-Amigo-4-700x400.jpg",
+                  "type": "image",
+                  "accessibilityText": "Example logo"
+                }
+              ],
+              [
+                {
+                  "type": "image",
+                  "accessibilityText": "Example logo",
+                  "rawUrl": "https://i.pinimg.com/originals/f0/9e/e7/f09ee760edbacfe98c52db7301544ad2.jpg"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

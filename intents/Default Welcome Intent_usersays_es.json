@@ -1,0 +1,28 @@
+[
+  {
+    "id": "54c4322a-8ea9-49a7-8423-a7a1cb2637e2",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f320690d-95e3-444f-b13f-f7c5469dc798",
+    "data": [
+      {
+        "text": "Hola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

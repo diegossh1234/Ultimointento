@@ -1,0 +1,71 @@
+{
+  "id": "ae3bec11-f609-4551-a11f-5eb36f7f1ec1",
+  "name": "info Reserva Manglar Churute",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1ca46f83-6b31-48a7-8120-cc9c99edd6ab",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Es toda la información que tengo"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Reserva Manglar Churute",
+                  "type": "description",
+                  "text": [
+                    "La Reserva Ecológica Manglares Churute fue creada el 26 de julio de 1979, pero, en realidad, no existe. Los documentos dicen que tiene una extensión de 49.383 hectáreas, que abarca siete cerros, una laguna, y que fue la primera área protegida de la Costa ecuatoriana que incluyó al ecosistema manglar. Sin embargo, hasta la fecha —42 años después— ni siquiera hay una delimitación física. No existen esos postes o mojones que marquen sus fronteras. Hay dos senderos para el turismo. Nada más.",
+                    "Manglares Churute está a 45 minutos de la ciudad de Guayaquil, el puerto marítimo más grande de Ecuador. Se ubica en la parte baja de los ríos Churute, Taura, Cañar y Naranjal, que desembocan en el Golfo de Guayaquil. Tiene cientos de brazos de agua, esas raíces líquidas en cuyos bordes crecen muchos árboles de manglar; de allí su nombre."
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

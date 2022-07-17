@@ -1,0 +1,67 @@
+[
+  {
+    "id": "35a6913b-498b-4227-b481-c46e4589a598",
+    "data": [
+      {
+        "text": "Adiós",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "49999da3-b2dd-4011-926e-219d82eeaf9b",
+    "data": [
+      {
+        "text": "Adios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f5de6807-873c-4728-bb3a-e6e567637bf1",
+    "data": [
+      {
+        "text": "chao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4a57db27-966f-4ded-aed7-d4368882c15a",
+    "data": [
+      {
+        "text": "Chao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "857afa67-fae7-463f-9bc2-bfc1113504d5",
+    "data": [
+      {
+        "text": "adiós",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  }
+]

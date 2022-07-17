@@ -1,0 +1,28 @@
+[
+  {
+    "id": "069e8676-295f-4fa7-ae48-5a5185c4baa4",
+    "data": [
+      {
+        "text": "Fotos Yasuni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "95894489-7a18-47f4-bea0-a2067fa3a96c",
+    "data": [
+      {
+        "text": "Fotos Yasuní",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

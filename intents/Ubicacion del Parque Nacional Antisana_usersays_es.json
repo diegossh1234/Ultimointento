@@ -1,0 +1,32 @@
+[
+  {
+    "id": "622f71b4-2d4b-4ae0-b32b-1ab5c16550cf",
+    "data": [
+      {
+        "text": "Ubicacion Antisana",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f518dff6-5755-4420-9106-8ebb77500b1c",
+    "data": [
+      {
+        "text": "Ubicación Antisana",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

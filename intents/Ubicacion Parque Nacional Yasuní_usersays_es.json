@@ -1,0 +1,41 @@
+[
+  {
+    "id": "8622ecae-9585-4a70-8365-c5827f30408f",
+    "data": [
+      {
+        "text": "Ubicacion Yasuni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4abab009-7ba9-4e27-8d69-f81a3195376f",
+    "data": [
+      {
+        "text": "Ubicación Yasuni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8cda00c3-3456-4bed-9055-5e06f57f5cc0",
+    "data": [
+      {
+        "text": "Ubicación Yasuní",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

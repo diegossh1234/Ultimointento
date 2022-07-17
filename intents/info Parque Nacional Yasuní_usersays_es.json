@@ -1,0 +1,103 @@
+[
+  {
+    "id": "b418678e-f1dc-46e9-8cfb-2dcb782eb372",
+    "data": [
+      {
+        "text": "Amazonía",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "84260c8b-572b-40a0-860e-e447de38a4b8",
+    "data": [
+      {
+        "text": "Parque Yasuni",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "13c8bc44-f2dc-4da1-85d6-2e5d8f29b087",
+    "data": [
+      {
+        "text": "Parque Nacional Yasuni",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d809e0e9-5222-484d-b72d-f5c4977cff40",
+    "data": [
+      {
+        "text": "Parque Nacional Yasuní",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b5459bf6-53ea-44e3-a527-775cb5be74f7",
+    "data": [
+      {
+        "text": "Parque Yasuní",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b4261d6e-ce5f-44af-9c75-229387b4c516",
+    "data": [
+      {
+        "text": "Amazonia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "17187525-974a-4388-bd79-40c33cbe61d3",
+    "data": [
+      {
+        "text": "Oriente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  }
+]

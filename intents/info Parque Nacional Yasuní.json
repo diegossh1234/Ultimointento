@@ -1,0 +1,71 @@
+{
+  "id": "86f75385-3ddf-49ce-b7bc-9d2d31db73d3",
+  "name": "info Parque Nacional Yasuní",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ca849ef9-5b78-488e-9699-8e4029f20849",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Es toda la información que tengo"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Parque Nacional Yasuní",
+                  "type": "description",
+                  "text": [
+                    "Yasuní es una de las zonas de la Tierra más diversas. Existen estudios que hablan de una diversidad en la fauna de 173 especies de mamíferos, 567 especies de aves, 83 especies de reptiles, 97 especies de anfibios y 249 especies de peces.",
+                    "Dentro de la reserva habitan tres grandes comunidades indígenas: los Waorani, Kichwa y Shuar, además, habitan los últimos pueblos en aislamiento voluntario del Ecuador. Son dos comunidades ancestrales que han decidido no mantener contacto con la gente de la ciudad: los Tagaeri y Taromenani que se caracterizan por ser bravos guerreros."
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
